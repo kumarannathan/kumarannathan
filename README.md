@@ -6,7 +6,7 @@ welcome to my corner of the internet :computer:
 
 ```javascript
 const kumaran = {
-  pronouns: ["her", "him"],
+  pronouns: ["he", "him"],
   code: ["javascript", "typescript", "python", "java", "html", "css"],
   tools: ["react", "next.js", "tailwind", "mongodb", "node"],
   school: ["university of michigan, ann arbor"],
