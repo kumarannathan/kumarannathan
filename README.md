@@ -1,8 +1,8 @@
-![hello](https://github.com/kumarannathan/kumarannathan/assets/98358804/e4d7dca3-50d3-412c-b156-3e45c9c4f999)<h2> hi, i'm kumaran nathan! <img alt="catcode" src="https://github.com/kumarannathan/kumarannathan/assets/98358804/c3b8a962-4a1b-4658-9e95-114f6a3d5a7f" width='50'> </h2>
+<h2> hi, i'm kumaran nathan! <img alt="catcode" src="https://github.com/kumarannathan/kumarannathan/assets/98358804/9d9c4801-ba4f-436b-a81a-ef0793030d48" width='50'> </h2>
 
  [kumarannathan.com](https://bit.ly/kumarann)
 
-welcome to my corner of the internet :computer:
+welcome to my github :computer:
 
 ```javascript
 const kumaran = {
