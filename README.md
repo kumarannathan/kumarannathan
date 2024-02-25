@@ -7,7 +7,7 @@ welcome to my github :computer:
 ```javascript
 const kumaran = {
   pronouns: ["he", "him"],
-  code: ["c++", "swiftUI", "javascript, "python", "java", "html", "css"],
+  code: ["c++", "swiftUI", "javascript", "python", "java", "html", "css"],
   tools: ["react", "next.js", "tailwind", "mongodb", "node"],
   school: ["university of michigan, ann arbor"],
   clubs: {
