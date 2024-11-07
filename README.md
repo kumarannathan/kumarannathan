@@ -1,4 +1,4 @@
-<h2> hi, i'm kumaran nathan! <img alt="catcode" src="https://github.com/kumarannathan/kumarannathan/assets/98358804/9d9c4801-ba4f-436b-a81a-ef0793030d48" width='50'> </h2>
+<h2> hi, i'm kumaran nathan! <img alt="catcode" src="https://kumarann.netlify.app/" width='50'> </h2>
 
  [kumarannathan.com](https://bit.ly/kumarann)
 
