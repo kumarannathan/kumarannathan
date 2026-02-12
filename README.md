@@ -7,10 +7,10 @@ Welcome to my GitHub! I'm a passionate developer focused on building innovative 
 
 ## 🚀 About Me
 
-- 💻 Full-stack developer
-- 🎯 Building SmartReview - AI-powered product review analysis
-- 🌱 Always learning and exploring new technologies
-- 🎨 Passionate about clean code and intuitive design
+- Full-stack developer
+- Building SmartReview - AI-powered product review analysis
+-  Always learning and exploring new technologies
+- Passionate about clean code and intuitive design
 
 ## 🛠️ Tech Stack
 
