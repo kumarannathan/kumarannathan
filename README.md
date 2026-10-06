@@ -52,10 +52,5 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/kumarann301">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kumarann301&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
